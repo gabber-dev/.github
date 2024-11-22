@@ -17,6 +17,7 @@ Here you'll find SDKs and example projects for integrating Gabber APIs into your
 - [Example Server](https://github.com/gabber-dev/example-server)
 - [Example iOS App](https://github.com/gabber-dev/example-iOS)
 - [Example React App](https://github.com/gabber-dev/example-react)
+- [Example Telegram MiniApp](https://github.com/gabber-dev/example-telegram-miniapp)
 - Example Flutter APP (coming soon)
 - Example Android App (coming soon)
 - Example ESP32 Talking Robot (coming soon)
