@@ -4,6 +4,8 @@ This is the Github Organization for [Gabber.Dev](https://gabber.dev)
 
 Here you'll find SDKs and example projects for integrating Gabber APIs into your app.
 
+All of these implementations require a very simple backend component. You can find a sample of that in the [Example Server](https://github.com/gabber-dev/example-server).
+
 ### SDKs
 
 - [Typescript SDKS + React](https://github.com/gabber-dev/sdks-ts)
