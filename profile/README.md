@@ -15,7 +15,8 @@ All of these implementations require a very simple backend component. You can fi
 - ESP32-Compatible C-SDK (contact us)
 - React Native (contact us)
 
-### Example Apps
+### Minimal Example Apps
+These are minimal example apps that can be referenced for documentation.
 - [Example Server](https://github.com/gabber-dev/example-server)
 - [Example iOS App](https://github.com/gabber-dev/example-iOS)
 - [Example React App](https://github.com/gabber-dev/example-react)
@@ -25,3 +26,12 @@ All of these implementations require a very simple backend component. You can fi
 - Example Android App (coming soon)
 - Example ESP32 Talking Robot (coming soon)
 - Example React Native App (coming soon)
+
+### Full Example Apps
+These are complete open source apps that make use of Gabber.
+We maintain these to showcase the capabilities of Gabber and to dogfood our APIs
+to discover blindspots.
+
+They are completely deployable mini-businesses. We encourage you to try!
+
+- [Rizz.AI](https://github.com/gabber-dev/example-app-rizz-ai)
