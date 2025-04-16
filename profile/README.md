@@ -19,7 +19,7 @@ All of these implementations require a very simple backend component. You can fi
 
 - [Example Server](https://github.com/gabber-dev/example-server)
 - [Example iOS App](https://github.com/gabber-dev/example-iOS)
-- [Example React App](https://github.com/gabber-dev/example-react)
+- [Example React/NextJS App](https://github.com/gabber-dev/example-next-js)
 - [Example Nuxt App](https://github.com/gabber-dev/example-nuxt)
 - [Example Telegram MiniApp](https://github.com/gabber-dev/example-telegram-miniapp)
 - Example Flutter APP (coming soon)
