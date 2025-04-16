@@ -18,10 +18,10 @@ These are minimal example apps that can be referenced for documentation.
 All of these implementations require a very simple backend component. You can find a sample of that in the [Example Server](https://github.com/gabber-dev/example-server).
 
 - [Example Server](https://github.com/gabber-dev/example-server) <- up to date
-- [Example iOS App](https://github.com/gabber-dev/example-iOS) <- working, updating to new version of SDK shortly
+- [Example iOS App](https://github.com/gabber-dev/example-iOS) <- working, uses deprecated of realtime SDK
 - [Example React/NextJS App](https://github.com/gabber-dev/example-next-js) <- up to date
-- [Example Nuxt App](https://github.com/gabber-dev/example-nuxt) <- uses old version of realtime SDK
-- [Example Telegram MiniApp](https://github.com/gabber-dev/example-telegram-miniapp) <- uses old version of realtime SDK
+- [Example Nuxt App](https://github.com/gabber-dev/example-nuxt) <- working, uses deprecated of realtime SDK
+- [Example Telegram MiniApp](https://github.com/gabber-dev/example-telegram-miniapp) <- working, uses deprecated of realtime SDK
 - Example Flutter APP (coming soon)
 - Example Android App (coming soon)
 - Example ESP32 Talking Robot (coming soon)
