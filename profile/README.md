@@ -8,9 +8,10 @@ Here you'll find SDKs and example projects for integrating Gabber APIs into your
 
 - [Typescript SDKS + React](https://github.com/gabber-dev/sdks-ts)
 - [iOS](https://github.com/gabber-dev/sdk-swift)
+- [Python/Raspberry Pi](https://github.com/gabber-dev/.github/blob/main/profile/README.md)
 - Flutter (contact us)
 - Android (contact us)
-- ESP32-Compatible C-SDK (contact us)
+- ESP32-Compatible C-SDK (in progress)
 - React Native (contact us)
 
 ### Minimal Example Apps
