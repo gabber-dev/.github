@@ -18,15 +18,15 @@ Here you'll find SDKs and example projects for integrating Gabber APIs into your
 These are minimal example apps that can be referenced for documentation.
 All of these implementations require a very simple backend component. You can find a sample of that in the [Example Server](https://github.com/gabber-dev/example-server).
 
-- [Example Server](https://github.com/gabber-dev/example-server) <- up to date
-- [Example iOS App](https://github.com/gabber-dev/example-iOS) <- still uses deprecated realtime SDK
-- [Example React/NextJS App](https://github.com/gabber-dev/example-next-js) <- up to date
-- [Example Nuxt App](https://github.com/gabber-dev/example-nuxt) <- still uses deprecated realtime SDK
-- [Example Telegram MiniApp](https://github.com/gabber-dev/example-telegram-miniapp) <- still uses deprecated realtime SDK
+- [Example Server](https://github.com/gabber-dev/example-server)
+- [Example iOS App](https://github.com/gabber-dev/example-iOS)
+- [Example React/NextJS App](https://github.com/gabber-dev/example-next-js)
+- [Example Nuxt App](https://github.com/gabber-dev/example-nuxt)
+- [Example Telegram MiniApp](https://github.com/gabber-dev/example-telegram-miniapp)
+- [Example React Native App (Expo)](https://github.com/gabber-dev/example-react-native-expo)
 - Example Flutter APP (coming soon)
 - Example Android App (coming soon)
 - Example ESP32 Talking Robot (coming soon)
-- Example React Native App (coming soon)
 
 ### Full Example Apps
 These are complete open source apps that make use of Gabber.
